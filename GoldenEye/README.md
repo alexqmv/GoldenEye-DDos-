@@ -1,4 +1,6 @@
-# THIS PROJECT IS NO LONGER MAINTAINED
+# GoldenEye DDos HACK TOOL (usages - linux,windows)
+# Made by python3
+# Using Python3 in hash
 
 # GoldenEye
 
